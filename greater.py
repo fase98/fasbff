@@ -7,3 +7,4 @@ elif(b>c and b>c):
 	print(b)
 else:
 	print(c)
+	
